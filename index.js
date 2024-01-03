@@ -8,7 +8,6 @@ angular.module('MyFirstApp',[])
     $scope.DisplayNumeric = function(){
         var totalNameValue=calNumForStr($scope.name);
         $scope.TotalValue=totalNameValue;
-
     };
 
     function calNumForStr(string){
