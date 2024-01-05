@@ -1,0 +1,26 @@
+{
+  "name": "anguler-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.8.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specailm5/Coursera-AngulerJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specailm5/Coursera-AngulerJs/issues"
+  },
+  "homepage": "https://github.com/specailm5/Coursera-AngulerJs#readme"
+}

@@ -1,3 +1,4 @@
+
 (function(){
 'use strict';
 angular.module('LunchCheck',[])
@@ -31,6 +32,7 @@ function LunchCheckController($scope){
     }
 }
 })()
+
 
 
 
